@@ -5,7 +5,7 @@ at University of Geneva. The course lasted 3 working days, covering the theory o
 operation, basic workflow of smart contract execution, and practical examples for smart 
 contract developers.
 
-This repository contains original sides from the lecrtures. 
+This repository contains original sildes from the lecrtures. 
 
 Copyright (c) 2019 Europechain B. V.
 
